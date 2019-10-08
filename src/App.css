@@ -20,3 +20,17 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+.App {
+    display: grid;
+}
+.number_btn{
+    background-color: #323292;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 5%;
+    margin: 2%;
+    border-radius: 60%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    outline: none;
+}
